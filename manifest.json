@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Menti hacker",
+  "description": "Shows all questions and responses in advance to menti.com quizzes",
+  "version": "1.0",
+  "host_permissions": ["https://www.menti.com/*", "https://www.mentimeter.com/*"],
+  "action": {},
+  "devtools_page": "devtools.html"
+}
